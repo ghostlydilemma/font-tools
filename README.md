@@ -53,7 +53,7 @@ Those tools were made to recover parts of my lost fonts, so I didn't want to sta
 
 Yes these tools could be rewritten with just plain bash scripting. No I will most likely not do that.
 
-If a poor soul stumbles upon this as is really _that_ frustrated about the use of Node: I accept Pull Requests.
+If a poor soul stumbles upon this and is really _that_ frustrated about the use of Node: I accept Pull Requests.
 
 ### "Will you add more tools?"
 
